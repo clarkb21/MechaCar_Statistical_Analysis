@@ -47,4 +47,4 @@
 - The test used to measure price and fuel economy would be a Multiple Linear Regression model because the data type aligns and it shows how much variance in the dependent variable is accounted for the combination of the independent variables.
 - The test used to measure color preference would be a Chi-Squared test because it is a categorical data type and it can show a chart of how many cars have been purchased grouped by color. 
 - The data that would be needed is Random Samples from several manufacturerers for their overall car sales from the previous five years, including the price of the car sold, the fuel economy of the car, the color of the car, and the date it was sold. 
-- 
+
