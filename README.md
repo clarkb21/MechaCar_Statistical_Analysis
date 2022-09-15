@@ -39,3 +39,12 @@
 
 ![Deliverable_3_Lot3](https://user-images.githubusercontent.com/104038813/190426330-9e30f80d-c9d5-4ec3-8c2c-3534d1f5eaf2.png)
 
+## Study Design: MechaCar vs Competition
+- To test the performance of the MechaCar vs the competition, a study can be done to compare rates of cars purchases regarding prices, fuel economy, and color of the car. 
+- The metric used for this study would be numerical for the price, numerical for the fuel economy, and categorical for the color of the car.
+- The null hypothesis would be that there is not significant impact on a user to buy a car based differences of the cars based on the price, fuel economy, and color.
+- The alternative hypothesis would then be that these factors do have a significant effect on the rate at which users are buying the car.
+- The test used to measure price and fuel economy would be a Multiple Linear Regression model because the data type aligns and it shows how much variance in the dependent variable is accounted for the combination of the independent variables.
+- The test used to measure color preference would be a Chi-Squared test because it is a categorical data type and it can show a chart of how many cars have been purchased grouped by color. 
+- The data that would be needed is Random Samples from several manufacturerers for their overall car sales from the previous five years, including the price of the car sold, the fuel economy of the car, the color of the car, and the date it was sold. 
+- 
