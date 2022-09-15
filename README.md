@@ -25,7 +25,7 @@
 
 ## T-Tests on Suspension Coils
 - The three lots as a whole are not statistically different from the population mean of 1500 PSI because the p-value was larger than the significance level of .05 and the null hypothesis (that the mean is 1500) cannot be rejected. 
-- 
+
 ![Deliverable_3_t-test](https://user-images.githubusercontent.com/104038813/190425680-61e69a5e-b455-40dd-bca7-5e04eb485fed.png)
 
 - Lot #1 was not statistically different from the population, with a p-value of 1, meaning it was very closely aligned with the population. 
