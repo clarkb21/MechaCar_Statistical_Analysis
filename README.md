@@ -13,4 +13,7 @@
   1. Yes, this linear model does predict the Mechcar prototypes effectively due to the high r-squared value. 
   2. An r-squared value of .7149 indicates that roughly 71% of the variability of the mpg variable is explained using this model. 
 
+## Summary Statistics on Suspension Coils
 
+![Deliverable_2_Lot_Summary](https://user-images.githubusercontent.com/104038813/190415319-a200b914-f339-4c77-a665-1f3e734f77e4.png)
+![Deliverable_2_PSI_Summary](https://user-images.githubusercontent.com/104038813/190415356-0103ed25-f2bb-4f69-a944-9d57a0bcf63e.png)
