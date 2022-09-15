@@ -17,3 +17,8 @@
 
 ![Deliverable_2_Lot_Summary](https://user-images.githubusercontent.com/104038813/190415319-a200b914-f339-4c77-a665-1f3e734f77e4.png)
 ![Deliverable_2_PSI_Summary](https://user-images.githubusercontent.com/104038813/190415356-0103ed25-f2bb-4f69-a944-9d57a0bcf63e.png)
+- **Does the current manufacturing data meet the design specifications for the variance not exceeding 100 pounds per square inch?**
+  1. Based on the results of the summary statistics, all manufacturing lots in total do meet the specifications for suspension coil PSI. 
+  2. Lots #1 and #2 have an extremely low variance, and there mean and median PSI are roughly identical.
+  3. Lot #3 DOES NOT meet the required specifications, with a variance in PSI over 100. 
+  4. Due to lots 1 and 2 being so precise, the error from lot 3 did not affect the overall results for the three lots in total to exceed the 100 PSI variance level. 
