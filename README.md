@@ -1,4 +1,20 @@
-# MechaCar_Statistical_Analysis
+# MechaCar Statistical Analysis Using R and RStudio
+
+## Purpose
+- The purpose of this project is to demonstrate skills using R and various statistical tests such as Hypothesis testing, t-tests, ANOVA tests, and linear regression. 
+- Plots and graphs were created using ggplot2 to help visualize the statistical data such as linear regression models.  
+
+## Project Overview
+- Automobile data was extracted and transformed using R software. 
+- Plots and summary details were generated using R functions. 
+- Statistical tests were executed using R functions. These test included t-tests, linear regression, summary data to find p-value and r-squared values.
+
+
+### Challenge Overview
+- During the challenge, MechaCar data was imported and analyzed to create a linear regression model to compare fuel economy to several different factor such as vehicle length and weight.
+- Suspension coil data was imported to summarize the mean, median, variance, and standard deviation of the PSI in the coils. 
+- The data was then compared to the overall population to determine if the manufacturing lots were meeting expectations for PSI requirements. 
+
 
 ## Linear Regression to Predict MPG
 ![image](https://user-images.githubusercontent.com/104038813/190408402-4ae5f45b-6200-45d8-bfab-64a073010f94.png)
@@ -48,3 +64,6 @@
 - The test used to measure color preference would be a Chi-Squared test because it is a categorical data type and it can show a chart of how many cars have been purchased grouped by color. 
 - The data that would be needed is Random Samples from several manufacturerers for their overall car sales from the previous five years, including the price of the car sold, the fuel economy of the car, the color of the car, and the date it was sold. 
 
+### Resources
+- R Version 4.2.1, R Studio
+- MSU Bootcamp Module 15: https://courses.bootcampspot.com/courses/2508/assignments/31929?module_item_id=637258
