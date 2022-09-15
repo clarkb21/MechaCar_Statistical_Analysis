@@ -35,7 +35,7 @@
 
 ![Deliverable_3_Lot2](https://user-images.githubusercontent.com/104038813/190426084-ca271e96-42bd-4f7c-9ee2-2e184d9c05f4.png)
 
-Lot #3 however was statistically different from the overall population. It had a p-value of 0.04168, meaning that the null hypothesis CAN be rejected, meaning the mean was different than 1500. 
+-Lot #3 however was statistically different from the overall population. It had a p-value of 0.04168, meaning that the null hypothesis CAN be rejected, meaning the mean was different than 1500. 
 
 ![Deliverable_3_Lot3](https://user-images.githubusercontent.com/104038813/190426330-9e30f80d-c9d5-4ec3-8c2c-3534d1f5eaf2.png)
 
